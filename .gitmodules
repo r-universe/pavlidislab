@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gemma.R"]
+	path = gemma.R
+	url = https://github.com/pavlidislab/gemma.r
+	shallow = true
+	registered = true
